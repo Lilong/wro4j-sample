@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+    <url>
+        <loc>http://ehuoyun.com</loc>
+        <lastmod>2015-4-10</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+        <data>
+            <display>
+                <pc_url_pattern>http://www.ehuoyun.com/car/(\d+)</pc_url_pattern>
+				<xhtml_url_pattern>http://m.ehuoyun.com/car/${1}</xhtml_url_pattern>
+				<wml_url_pattern>http://m.ehuoyun.com/car/${1}</wml_url_pattern>
+				<html5_url_pattern>http://m.ehuoyun.com/car/${1}</html5_url_pattern>
+            </display>
+        </data>
+    </url>
+</urlset>
